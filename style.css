@@ -9,12 +9,10 @@ body{
     width: 70%;
 
 }
-div:hover{
-    width: 300px;
-}
+
 .inner_container{
     padding: 20px;
-    margin:10%;
+    margin:5%;
     border: solid 1px red;
     background-color: cornsilk;
 
